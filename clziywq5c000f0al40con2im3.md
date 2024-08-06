@@ -1,8 +1,8 @@
 ---
-title: "This is a Newletter Test"
+title: "This is a Newsletter Test"
 datePublished: Tue Aug 06 2024 22:04:12 GMT+0000 (Coordinated Universal Time)
 cuid: clziywq5c000f0al40con2im3
-slug: this-is-a-newletter-test
+slug: this-is-a-newsletter-test
 
 ---
 
